@@ -1,0 +1,6 @@
+v:\documents\visual studio 2015\Projects\CS5-Electric Bill\bin\Debug\CS5-Electric Bill.exe.config
+v:\documents\visual studio 2015\Projects\CS5-Electric Bill\obj\Debug\CS5-Electric Bill.csprojResolveAssemblyReference.cache
+v:\documents\visual studio 2015\Projects\CS5-Electric Bill\bin\Debug\CS5-Electric Bill.exe
+v:\documents\visual studio 2015\Projects\CS5-Electric Bill\bin\Debug\CS5-Electric Bill.pdb
+v:\documents\visual studio 2015\Projects\CS5-Electric Bill\obj\Debug\CS5-Electric Bill.exe
+v:\documents\visual studio 2015\Projects\CS5-Electric Bill\obj\Debug\CS5-Electric Bill.pdb
